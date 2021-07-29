@@ -1,0 +1,25 @@
+body{
+    color: whitesmoke;
+    background-color: gray;
+}
+
+
+
+.topSection {
+    text-align: center;
+}
+
+
+.topImg {
+    justify-content: right;
+    opacity: 
+}
+
+
+
+.middleSection {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
